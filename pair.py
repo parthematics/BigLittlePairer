@@ -1,6 +1,5 @@
 from collections import defaultdict
 
-
 class Pairer:
     def __init__(self, littles, bigs):
 
@@ -10,7 +9,7 @@ class Pairer:
         self.pairs = []
 
         self.little_rank = defaultdict(dict)
-        self.big_rank = defaultdict(dict)  
+        self.big_rank = defaultdict(dict)
 
         for l, prefs in littles.items():
             for i, b in enumerate(prefs):
@@ -24,14 +23,14 @@ class Pairer:
         return self.big_rank[b][l1] < self.big_rank[b][l2]
 
     def next_preference(self, l, b):
-        '''Return the big favored by l after b.'''
+        ''' Return the big favored by l after b. '''
+
         i = self.little_rank[l][b] + 1
         return self.L[l][i]
 
     def pair(self, littles=None, next=None, big2little=None):
-        '''
-        Try to match all littles with their preferred bigs.
-        '''
+        ''' Try to match all littles with their preferred bigs. '''
+        
         if littles is None:
             littles = self.L.keys()
         if next is None:
