@@ -9,10 +9,8 @@ class Pairer:
         self.big2little = {}
         self.pairs = []
 
-        # we index spousal preferences at initialization
-        # to avoid expensive lookups when matching
-        self.little_rank = defaultdict(dict)  # `mrank[m][w]` is m's ranking of w
-        self.big_rank = defaultdict(dict)  # `wrank[w][m]` is w's ranking of m
+        self.little_rank = defaultdict(dict)
+        self.big_rank = defaultdict(dict)  
 
         for l, prefs in littles.items():
             for i, b in enumerate(prefs):
