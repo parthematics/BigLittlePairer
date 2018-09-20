@@ -1,0 +1,12 @@
+sanam: parth, mika, saaketh, spring, emily, andy, alan, kevin, sharon, jade, anthony, athan
+colby: saaketh, jade, spring, sharon, alan, mika, anthony, athan, emily, andy, kevin, parth
+angela: kevin, parth, saaketh, alan, athan, spring, jade, sharon, emily, andy, anthony, mika
+eric: alan, saaketh, anthony, athan, mika, andy, emily, parth, kevin, sharon, jade, spring
+wavid: sharon, kevin, mika, andy, alan, emily, parth, athan, spring, anthony, jade, saaketh
+david: athan, saaketh, emily, spring, alan, parth, jade, andy, kevin, mika, anthony, sharon
+octavian: sharon, jade, athan, saaketh, parth, alan, spring, emily, anthony, andy, mika, kevin
+margaret: emily, andy, sharon, spring, saaketh, athan, anthony, alan, kevin, jade, mika, parth
+vanessa: anthony, spring, saaketh, athan, alan, emily, sharon, jade, parth, andy, mika, kevin
+hae-rang: parth, kevin, mika, anthony, andy, alan, saaketh, emily, sharon, jade, spring, athan
+amy: kevin, alan, mika, spring, parth, anthony, jade, emily, athan, sharon, andy, saaketh
+none: jade, kevin, saaketh, andy, alan, parth, athan, anthony, emily, mika, spring, sharon

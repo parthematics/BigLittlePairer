@@ -1,0 +1,12 @@
+parth: sanam, margaret, amy, wavid, vanessa, colby, octavian, angela, hae-rang, david, eric, none
+mika: eric, wavid, octavian, amy, david, hae-rang, angela, margaret, sanam, colby, vanessa, none
+saaketh: vanessa, margaret, sanam, colby, david, wavid, eric, octavian, amy, angela, hae-rang, none
+spring: margaret, wavid, amy, colby, sanam, hae-rang, david, vanessa, eric, angela, octavian, none
+emily: vanessa, hae-rang, colby, margaret, david, sanam, wavid, octavian, angela, amy, eric, none
+andy: eric, octavian, david, colby, margaret, sanam, angela, amy, hae-rang, wavid, vanessa, none
+alan: eric, david, wavid, hae-rang, amy, octavian, sanam, margaret, angela, vanessa, colby, none
+kevin: hae-rang, david, octavian, colby, wavid, amy, sanam, eric, vanessa, margaret, angela, none
+sharon: sanam, octavian, eric, margaret, angela, vanessa, wavid, david, hae-rang, colby, amy, none
+jade: david, angela, hae-rang, sanam, vanessa, amy, octavian, eric, margaret, wavid, colby, none
+athan: angela, vanessa, hae-rang, octavian, eric, margaret, colby, sanam, david, amy, wavid, none
+anthony: margaret, octavian, sanam, hae-rang, eric, wavid, david, angela, colby, vanessa, amy, none
