@@ -8,4 +8,5 @@ paired = Pairer(littles, bigs)
 
 pairings = paired.pair()
 
-print(pairings)
+for key in pairings.keys():
+    print(key[0:1].upper() + key[1:] + ': ' + pairings[key][0:1].upper() + pairings[key][1:])

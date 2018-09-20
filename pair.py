@@ -30,7 +30,7 @@ class Pairer:
 
     def pair(self, littles=None, next=None, big2little=None):
         ''' Try to match all littles with their preferred bigs. '''
-        
+
         if littles is None:
             littles = self.L.keys()
         if next is None:
